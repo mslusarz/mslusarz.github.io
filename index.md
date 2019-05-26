@@ -2,9 +2,10 @@
 title: Home
 ---
 
-This is a personal web site of Marcin Ślusarz.
+Hello, my name is Marcin Ślusarz.
 
-Some links:
+I'm a software developer who loves free and open-source software.
+
 - [My personal GitHub account](https://github.com/mslusarz)
 - [My work GitHub account](https://github.com/marcinslusarz)
 - [OpenHub](https://www.openhub.net/accounts/joi)
