@@ -2,10 +2,7 @@
 title: Home
 ---
 
-Hello, my name is Marcin Ślusarz.
-
-I'm a software developer who loves free and open-source software.
-
-- [My personal GitHub account](https://github.com/mslusarz)
-- [My work GitHub account](https://github.com/marcinslusarz)
+- [Personal GitHub account](https://github.com/mslusarz)
+- [Work GitHub account](https://github.com/marcinslusarz)
 - [OpenHub](https://www.openhub.net/accounts/joi)
+- [LinkedIn profile](https://www.linkedin.com/in/marcin-%C5%9Blusarz-64ba1018a/)
