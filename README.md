@@ -1,1 +1,1 @@
-This repo contains source files for my [website](http://marcin.slusarz.eu).
+This repo contains source files for my [website](https://marcin.slusarz.eu).
